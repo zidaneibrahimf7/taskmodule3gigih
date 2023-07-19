@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "64b78a88997fd9b7d318ec98"
+  },
+  "artistName": "Ardhito Pramono",
+  "dateofBirth": "22-05-1995",
+  "genres": "Jazz"
+},
+{
+  "_id": {
+    "$oid": "64b78a88997fd9b7d318ec99"
+  },
+  "artistName": "Michael Jackson",
+  "dateofBirth": "29-18-1958",
+  "genres": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b78a88997fd9b7d318ec9a"
+  },
+  "artistName": "Alan Walker",
+  "dateofBirth": "24-07-1997",
+  "genres": "EDM"
+},
+{
+  "_id": {
+    "$oid": "64b78bd4997fd9b7d318ec9b"
+  },
+  "artistName": "Coldplay",
+  "dateofBirth": 1997,
+  "genres": [
+    "Pop",
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b78bf6997fd9b7d318ec9c"
+  },
+  "artistName": "Coldplay",
+  "dateofBirth": 1997,
+  "genres": [
+    "Pop",
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b78da85ff45c063cf3fcda"
+  },
+  "artistName": "aespa",
+  "dateofBirth": "2020",
+  "genres": [
+    "K-Pop",
+    "EDM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b78de35ff45c063cf3fcdb"
+  },
+  "artistName": "Red Velvet",
+  "dateofBirth": "2014",
+  "genres": [
+    "K-Pop",
+    "R&B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b78ebb997fd9b7d318ec9d"
+  },
+  "artistName": "Danilla",
+  "dateofBirth": "12-02-1990",
+  "genres": [
+    "Jazz",
+    "Indie Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b78ec4997fd9b7d318ec9e"
+  },
+  "artistName": "Danilla",
+  "dateofBirth": "12-02-1990",
+  "genres": [
+    "Jazz",
+    "Indie Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b78f895ff45c063cf3fcde"
+  },
+  "artistName": "Justin Beiber",
+  "dateofBirth": "12-02-1994",
+  "genres": "Pop"
+}]
